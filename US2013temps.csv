@@ -1,0 +1,460 @@
+,AverageTemperature,State,Country,Month
+10688,10.284,Alabama,United States,01
+10689,9.161,Alabama,United States,02
+10690,10.226,Alabama,United States,03
+10691,17.067,Alabama,United States,04
+10692,20.619,Alabama,United States,05
+10693,26.072,Alabama,United States,06
+10694,25.952,Alabama,United States,07
+10695,26.107,Alabama,United States,08
+10696,25.121,Alabama,United States,09
+15098,-15.329,Alaska,United States,01
+15099,-16.714,Alaska,United States,02
+15100,-13.312,Alaska,United States,03
+15101,-9.208,Alaska,United States,04
+15102,1.695,Alaska,United States,05
+15103,12.277,Alaska,United States,06
+15104,13.009,Alaska,United States,07
+15105,11.099,Alaska,United States,08
+15106,,Alaska,United States,09
+34144,3.384,Arizona,United States,01
+34145,5.586,Arizona,United States,02
+34146,12.715,Arizona,United States,03
+34147,15.169,Arizona,United States,04
+34148,19.836,Arizona,United States,05
+34149,26.615,Arizona,United States,06
+34150,27.466,Arizona,United States,07
+34151,26.164,Arizona,United States,08
+34152,23.384,Arizona,United States,09
+37211,5.69,Arkansas,United States,01
+37212,6.433,Arkansas,United States,02
+37213,8.387,Arkansas,United States,03
+37214,14.922,Arkansas,United States,04
+37215,19.917,Arkansas,United States,05
+37216,25.384,Arkansas,United States,06
+37217,25.922,Arkansas,United States,07
+37218,26.146,Arkansas,United States,08
+37219,24.754,Arkansas,United States,09
+73026,5.607,California,United States,01
+73027,7.521,California,United States,02
+73028,12.415,California,United States,03
+73029,14.707,California,United States,04
+73030,17.899,California,United States,05
+73031,22.513,California,United States,06
+73032,25.563,California,United States,07
+73033,23.46,California,United States,08
+73034,21.924,California,United States,09
+98920,-5.212,Colorado,United States,01
+98921,-3.714,Colorado,United States,02
+98922,1.66,Colorado,United States,03
+98923,4.253,Colorado,United States,04
+98924,11.694,Colorado,United States,05
+98925,18.824,Colorado,United States,06
+98926,20.476,Colorado,United States,07
+98927,19.499,Colorado,United States,08
+98928,17.148,Colorado,United States,09
+102159,-0.931,Connecticut,United States,01
+102160,-1.015,Connecticut,United States,02
+102161,2.306,Connecticut,United States,03
+102162,8.183,Connecticut,United States,04
+102163,14.237,Connecticut,United States,05
+102164,19.6,Connecticut,United States,06
+102165,24.181,Connecticut,United States,07
+102166,20.557,Connecticut,United States,08
+102167,17.254,Connecticut,United States,09
+113431,2.319,Delaware,United States,01
+113432,1.726,Delaware,United States,02
+113433,4.325,Delaware,United States,03
+113434,11.487,Delaware,United States,04
+113435,16.648,Delaware,United States,05
+113436,22.223,Delaware,United States,06
+113437,25.679,Delaware,United States,07
+113438,22.501,Delaware,United States,08
+113439,19.488,Delaware,United States,09
+119283,1.842,District Of Columbia,United States,01
+119284,1.043,District Of Columbia,United States,02
+119285,4.303,District Of Columbia,United States,03
+119286,12.425,District Of Columbia,United States,04
+119287,17.134,District Of Columbia,United States,05
+119288,22.919,District Of Columbia,United States,06
+119289,25.658,District Of Columbia,United States,07
+119290,22.722,District Of Columbia,United States,08
+119291,19.643,District Of Columbia,United States,09
+127021,18.435,Florida,United States,01
+127022,17.152,Florida,United States,02
+127023,15.533,Florida,United States,03
+127024,22.167,Florida,United States,04
+127025,23.576,Florida,United States,05
+127026,27.432,Florida,United States,06
+127027,27.327,Florida,United States,07
+127028,28.188,Florida,United States,08
+127029,27.493,Florida,United States,09
+134651,11.864,Georgia (State),United States,01
+134652,9.821,Georgia (State),United States,02
+134653,10.614,Georgia (State),United States,03
+134654,17.643,Georgia (State),United States,04
+134655,20.859,Georgia (State),United States,05
+134656,26.027,Georgia (State),United States,06
+134657,26.204,Georgia (State),United States,07
+134658,26.163,Georgia (State),United States,08
+134659,25.027,Georgia (State),United States,09
+154717,21.377,Hawaii,United States,01
+154718,20.89,Hawaii,United States,02
+154719,20.688,Hawaii,United States,03
+154720,21.734,Hawaii,United States,04
+154721,22.843,Hawaii,United States,05
+154722,23.688,Hawaii,United States,06
+154723,24.358,Hawaii,United States,07
+154724,24.601,Hawaii,United States,08
+154725,,Hawaii,United States,09
+170273,-7.282,Idaho,United States,01
+170274,-3.079,Idaho,United States,02
+170275,1.457,Idaho,United States,03
+170276,4.252,Idaho,United States,04
+170277,10.607,Idaho,United States,05
+170278,15.136,Idaho,United States,06
+170279,20.733,Idaho,United States,07
+170280,19.559,Idaho,United States,08
+170281,15.47,Idaho,United States,09
+173512,-1.349,Illinois,United States,01
+173513,-1.096,Illinois,United States,02
+173514,1.513,Illinois,United States,03
+173515,10.187,Illinois,United States,04
+173516,18.039,Illinois,United States,05
+173517,22.35,Illinois,United States,06
+173518,23.346,Illinois,United States,07
+173519,23.083,Illinois,United States,08
+173520,21.008,Illinois,United States,09
+176751,-0.92,Indiana,United States,01
+176752,-0.827,Indiana,United States,02
+176753,1.848,Indiana,United States,03
+176754,10.642,Indiana,United States,04
+176755,18.57,Indiana,United States,05
+176756,22.248,Indiana,United States,06
+176757,23.096,Indiana,United States,07
+176758,22.537,Indiana,United States,08
+176759,20.332,Indiana,United States,09
+182797,-5.053,Iowa,United States,01
+182798,-3.977,Iowa,United States,02
+182799,-1.121,Iowa,United States,03
+182800,6.875,Iowa,United States,04
+182801,15.725,Iowa,United States,05
+182802,21.262,Iowa,United States,06
+182803,23.204,Iowa,United States,07
+182804,22.84,Iowa,United States,08
+182805,20.254,Iowa,United States,09
+217040,0.226,Kansas,United States,01
+217041,0.968,Kansas,United States,02
+217042,4.722,Kansas,United States,03
+217043,9.26,Kansas,United States,04
+217044,17.848,Kansas,United States,05
+217045,24.443,Kansas,United States,06
+217046,25.682,Kansas,United States,07
+217047,25.179,Kansas,United States,08
+217048,23.384,Kansas,United States,09
+231289,2.693,Kentucky,United States,01
+231290,2.735,Kentucky,United States,02
+231291,4.354,Kentucky,United States,03
+231292,13.183,Kentucky,United States,04
+231293,18.902,Kentucky,United States,05
+231294,23.335,Kentucky,United States,06
+231295,24.006,Kentucky,United States,07
+231296,23.663,Kentucky,United States,08
+231297,21.585,Kentucky,United States,09
+279448,11.652,Louisiana,United States,01
+279449,12.535,Louisiana,United States,02
+279450,13.331,Louisiana,United States,03
+279451,18.328,Louisiana,United States,04
+279452,22.398,Louisiana,United States,05
+279453,27.541,Louisiana,United States,06
+279454,27.443,Louisiana,United States,07
+279455,28.129,Louisiana,United States,08
+279456,27.307,Louisiana,United States,09
+290126,-8.812,Maine,United States,01
+290127,-6.589,Maine,United States,02
+290128,-0.778,Maine,United States,03
+290129,3.946,Maine,United States,04
+290130,11.583,Maine,United States,05
+290131,16.043,Maine,United States,06
+290132,20.31,Maine,United States,07
+290133,17.751,Maine,United States,08
+290134,14.093,Maine,United States,09
+301916,2.511,Maryland,United States,01
+301917,1.706,Maryland,United States,02
+301918,4.38,Maryland,United States,03
+301919,12.345,Maryland,United States,04
+301920,17.038,Maryland,United States,05
+301921,22.644,Maryland,United States,06
+301922,25.377,Maryland,United States,07
+301923,22.65,Maryland,United States,08
+301924,19.759,Maryland,United States,09
+305155,-3.307,Massachusetts,United States,01
+305156,-2.664,Massachusetts,United States,02
+305157,1.081,Massachusetts,United States,03
+305158,7.381,Massachusetts,United States,04
+305159,14.049,Massachusetts,United States,05
+305160,19.033,Massachusetts,United States,06
+305161,23.401,Massachusetts,United States,07
+305162,19.635,Massachusetts,United States,08
+305163,16.121,Massachusetts,United States,09
+315369,-4.643,Michigan,United States,01
+315370,-5.923,Michigan,United States,02
+315371,-2.089,Michigan,United States,03
+315372,4.123,Michigan,United States,04
+315373,13.636,Michigan,United States,05
+315374,17.72,Michigan,United States,06
+315375,20.621,Michigan,United States,07
+315376,19.387,Michigan,United States,08
+315377,15.748,Michigan,United States,09
+320789,-11.248,Minnesota,United States,01
+320790,-10.293,Minnesota,United States,02
+320791,-6.162,Minnesota,United States,03
+320792,1.209,Minnesota,United States,04
+320793,12.026,Minnesota,United States,05
+320794,18.021,Minnesota,United States,06
+320795,20.904,Minnesota,United States,07
+320796,20.345,Minnesota,United States,08
+320797,16.807,Minnesota,United States,09
+323856,9.773,Mississippi,United States,01
+323857,9.734,Mississippi,United States,02
+323858,10.776,Mississippi,United States,03
+323859,17.153,Mississippi,United States,04
+323860,21.197,Mississippi,United States,05
+323861,26.655,Mississippi,United States,06
+323862,26.563,Mississippi,United States,07
+323863,27.052,Mississippi,United States,08
+323864,26.09,Mississippi,United States,09
+327095,0.945,Missouri,United States,01
+327096,1.304,Missouri,United States,02
+327097,3.688,Missouri,United States,03
+327098,11.208,Missouri,United States,04
+327099,18.009,Missouri,United States,05
+327100,23.367,Missouri,United States,06
+327101,24.465,Missouri,United States,07
+327102,24.231,Missouri,United States,08
+327103,22.48,Missouri,United States,09
+332649,-5.874,Montana,United States,01
+332650,-2.762,Montana,United States,02
+332651,-0.898,Montana,United States,03
+332652,2.689,Montana,United States,04
+332653,11.395,Montana,United States,05
+332654,15.24,Montana,United States,06
+332655,19.864,Montana,United States,07
+332656,19.822,Montana,United States,08
+332657,16.642,Montana,United States,09
+350917,-3.536,Nebraska,United States,01
+350918,-1.816,Nebraska,United States,02
+350919,1.535,Nebraska,United States,03
+350920,5.84,Nebraska,United States,04
+350921,15.186,Nebraska,United States,05
+350922,20.999,Nebraska,United States,06
+350923,23.46,Nebraska,United States,07
+350924,23.548,Nebraska,United States,08
+350925,21.047,Nebraska,United States,09
+358698,-3.613,Nevada,United States,01
+358699,0.507,Nevada,United States,02
+358700,7.141,Nevada,United States,03
+358701,9.285,Nevada,United States,04
+358702,14.051,Nevada,United States,05
+358703,20.642,Nevada,United States,06
+358704,24.809,Nevada,United States,07
+358705,22.178,Nevada,United States,08
+358706,18.697,Nevada,United States,09
+365176,-6.714,New Hampshire,United States,01
+365177,-5.2,New Hampshire,United States,02
+365178,-0.638,New Hampshire,United States,03
+365179,5.529,New Hampshire,United States,04
+365180,13.129,New Hampshire,United States,05
+365181,17.862,New Hampshire,United States,06
+365182,21.938,New Hampshire,United States,07
+365183,18.498,New Hampshire,United States,08
+365184,14.564,New Hampshire,United States,09
+368415,0.553,New Jersey,United States,01
+368416,0.064,New Jersey,United States,02
+368417,3.359,New Jersey,United States,03
+368418,10.54,New Jersey,United States,04
+368419,16.057,New Jersey,United States,05
+368420,21.515,New Jersey,United States,06
+368421,25.173,New Jersey,United States,07
+368422,21.701,New Jersey,United States,08
+368423,18.378,New Jersey,United States,09
+370740,-0.121,New Mexico,United States,01
+370741,2.317,New Mexico,United States,02
+370742,8.457,New Mexico,United States,03
+370743,11.547,New Mexico,United States,04
+370744,16.753,New Mexico,United States,05
+370745,23.642,New Mexico,United States,06
+370746,23.124,New Mexico,United States,07
+370747,22.657,New Mexico,United States,08
+370748,19.999,New Mexico,United States,09
+376052,-3.866,New York,United States,01
+376053,-4.296,New York,United States,02
+376054,-0.165,New York,United States,03
+376055,6.765,New York,United States,04
+376056,14.591,New York,United States,05
+376057,18.573,New York,United States,06
+376058,22.56,New York,United States,07
+376059,19.538,New York,United States,08
+376060,15.527,New York,United States,09
+388087,7.008,North Carolina,United States,01
+388088,5.668,North Carolina,United States,02
+388089,6.966,North Carolina,United States,03
+388090,15.002,North Carolina,United States,04
+388091,18.85,North Carolina,United States,05
+388092,23.959,North Carolina,United States,06
+388093,25.4,North Carolina,United States,07
+388094,24.03,North Carolina,United States,08
+388095,22.013,North Carolina,United States,09
+391028,-11.315,North Dakota,United States,01
+391029,-8.151,North Dakota,United States,02
+391030,-7.474,North Dakota,United States,03
+391031,-0.114,North Dakota,United States,04
+391032,12.355,North Dakota,United States,05
+391033,17.847,North Dakota,United States,06
+391034,20.606,North Dakota,United States,07
+391035,20.792,North Dakota,United States,08
+391036,17.859,North Dakota,United States,09
+413681,-0.631,Ohio,United States,01
+413682,-1.38,Ohio,United States,02
+413683,1.881,Ohio,United States,03
+413684,10.424,Ohio,United States,04
+413685,17.751,Ohio,United States,05
+413686,21.486,Ohio,United States,06
+413687,23.159,Ohio,United States,07
+413688,21.688,Ohio,United States,08
+413689,18.854,Ohio,United States,09
+416546,4.599,Oklahoma,United States,01
+416547,5.31,Oklahoma,United States,02
+416548,9.098,Oklahoma,United States,03
+416549,13.049,Oklahoma,United States,04
+416550,19.962,Oklahoma,United States,05
+416551,26.118,Oklahoma,United States,06
+416552,26.945,Oklahoma,United States,07
+416553,27.25,Oklahoma,United States,08
+416554,25.391,Oklahoma,United States,09
+424435,-1.275,Oregon,United States,01
+424436,1.857,Oregon,United States,02
+424437,5.281,Oregon,United States,03
+424438,7.253,Oregon,United States,04
+424439,11.789,Oregon,United States,05
+424440,15.549,Oregon,United States,06
+424441,20.81,Oregon,United States,07
+424442,19.125,Oregon,United States,08
+424443,16.483,Oregon,United States,09
+436333,-1.27,Pennsylvania,United States,01
+436334,-2.187,Pennsylvania,United States,02
+436335,1.39,Pennsylvania,United States,03
+436336,9.409,Pennsylvania,United States,04
+436337,15.56,Pennsylvania,United States,05
+436338,20.248,Pennsylvania,United States,06
+436339,23.234,Pennsylvania,United States,07
+436340,20.461,Pennsylvania,United States,08
+436341,17.044,Pennsylvania,United States,09
+468791,-0.976,Rhode Island,United States,01
+468792,-0.989,Rhode Island,United States,02
+468793,2.341,Rhode Island,United States,03
+468794,8.162,Rhode Island,United States,04
+468795,14.164,Rhode Island,United States,05
+468796,19.558,Rhode Island,United States,06
+468797,24.128,Rhode Island,United States,07
+468798,20.503,Rhode Island,United States,08
+468799,17.231,Rhode Island,United States,09
+524409,10.503,South Carolina,United States,01
+524410,8.494,South Carolina,United States,02
+524411,9.677,South Carolina,United States,03
+524412,17.159,South Carolina,United States,04
+524413,20.543,South Carolina,United States,05
+524414,25.721,South Carolina,United States,06
+524415,26.507,South Carolina,United States,07
+524416,25.733,South Carolina,United States,08
+524417,24.284,South Carolina,United States,09
+527350,-6.689,South Dakota,United States,01
+527351,-4.392,South Dakota,United States,02
+527352,-1.945,South Dakota,United States,03
+527353,2.952,South Dakota,United States,04
+527354,13.795,South Dakota,United States,05
+527355,19.085,South Dakota,United States,06
+527356,22.649,South Dakota,United States,07
+527357,22.501,South Dakota,United States,08
+527358,20.001,South Dakota,United States,09
+549718,5.068,Tennessee,United States,01
+549719,4.829,Tennessee,United States,02
+549720,6.027,Tennessee,United States,03
+549721,13.991,Tennessee,United States,04
+549722,18.788,Tennessee,United States,05
+549723,23.894,Tennessee,United States,06
+549724,24.208,Tennessee,United States,07
+549725,24.06,Tennessee,United States,08
+549726,22.342,Tennessee,United States,09
+552043,8.671,Texas,United States,01
+552044,10.782,Texas,United States,02
+552045,13.96,Texas,United States,03
+552046,17.244,Texas,United States,04
+552047,22.628,Texas,United States,05
+552048,27.841,Texas,United States,06
+552049,27.63,Texas,United States,07
+552050,28.663,Texas,United States,08
+552051,26.408,Texas,United States,09
+583820,-6.485,Utah,United States,01
+583821,-2.625,Utah,United States,02
+583822,4.898,Utah,United States,03
+583823,7.072,Utah,United States,04
+583824,13.126,Utah,United States,05
+583825,20.355,Utah,United States,06
+583826,23.443,Utah,United States,07
+583827,21.389,Utah,United States,08
+583828,17.691,Utah,United States,09
+592043,-6.953,Vermont,United States,01
+592044,-5.749,Vermont,United States,02
+592045,-1.04,Vermont,United States,03
+592046,5.199,Vermont,United States,04
+592047,13.206,Vermont,United States,05
+592048,17.533,Vermont,United States,06
+592049,21.573,Vermont,United States,07
+592050,18.394,Vermont,United States,08
+592051,14.312,Vermont,United States,09
+597355,3.72,Virginia,United States,01
+597356,2.773,Virginia,United States,02
+597357,4.747,Virginia,United States,03
+597358,13.494,Virginia,United States,04
+597359,17.469,Virginia,United States,05
+597360,22.789,Virginia,United States,06
+597361,24.73,Virginia,United States,07
+597362,22.643,Virginia,United States,08
+597363,20.219,Virginia,United States,09
+612540,-1.812,Washington,United States,01
+612541,1.806,Washington,United States,02
+612542,4.707,Washington,United States,03
+612543,7.235,Washington,United States,04
+612544,12.286,Washington,United States,05
+612545,15.215,Washington,United States,06
+612546,19.717,Washington,United States,07
+612547,19.169,Washington,United States,08
+612548,16.823,Washington,United States,09
+618392,1.265,West Virginia,United States,01
+618393,0.3,West Virginia,United States,02
+618394,2.752,West Virginia,United States,03
+618395,11.773,West Virginia,United States,04
+618396,16.564,West Virginia,United States,05
+618397,21.352,West Virginia,United States,06
+618398,23.221,West Virginia,United States,07
+618399,21.33,West Virginia,United States,08
+618400,18.708,West Virginia,United States,09
+623566,-7.934,Wisconsin,United States,01
+623567,-8.003,Wisconsin,United States,02
+623568,-4.086,Wisconsin,United States,03
+623569,3.6,Wisconsin,United States,04
+623570,13.36,Wisconsin,United States,05
+623571,18.206,Wisconsin,United States,06
+623572,20.937,Wisconsin,United States,07
+623573,20.121,Wisconsin,United States,08
+623574,16.567,Wisconsin,United States,09
+626431,-6.491,Wyoming,United States,01
+626432,-5.13,Wyoming,United States,02
+626433,-0.21,Wyoming,United States,03
+626434,1.673,Wyoming,United States,04
+626435,10.607,Wyoming,United States,05
+626436,16.267,Wyoming,United States,06
+626437,20.222,Wyoming,United States,07
+626438,19.621,Wyoming,United States,08
+626439,15.811,Wyoming,United States,09
